@@ -1,0 +1,12 @@
+
+This is a test file. 
+
+U  - Untracked file.
+
+A - Added
+
+GIT Lifecycle:
+
+    git add filename
+
+    git status
