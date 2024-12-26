@@ -10,3 +10,14 @@ GIT Lifecycle:
     git add filename
 
     git status
+
+    git commit -m {message}
+
+    
+
+1. Create an account in GITHUB
+
+2. Download VSCode
+
+3. Practice GIT Lifecycle commands
+
