@@ -13,7 +13,7 @@ GIT Lifecycle:
 
     git commit -m {message}
 
-    
+
 
 1. Create an account in GITHUB
 
@@ -21,3 +21,5 @@ GIT Lifecycle:
 
 3. Practice GIT Lifecycle commands
 
+
+Git init      -         git clone 
